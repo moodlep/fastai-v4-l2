@@ -5,8 +5,8 @@ Deploying trained model with widgets using Binder and Voila
 
 Acknowledgements: 
 
-Extensive help for deployment from two repos: 
-https://github.com/shlyakh/fastforage
-https://github.com/neokt/kueh-classifier
+Extensive help for deployment from two repos: \\ 
+https://github.com/shlyakh/fastforage \\
+https://github.com/neokt/kueh-classifier \\
 
 
